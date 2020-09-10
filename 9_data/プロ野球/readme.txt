@@ -3,10 +3,6 @@
 NPB公式サイトより取得
 http://npb.jp/teams/
 
-■mlb_score_2017.csv
-
-http://www.retrosheet.org/gamelogs/index.html
-
 
 
 # プロ野球スコアをパースした何か
